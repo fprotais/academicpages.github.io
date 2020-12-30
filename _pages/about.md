@@ -17,14 +17,14 @@ And it happens to be that generating those meshes is a pretty goddamn hard thing
 
 Studying Frame-Field based methods is very interseting as it gathers very broad subjects. While based on standard **geometry processing**, it requires to **solve difficults PDE**, do some **differential geometry**, work closely in **numerical optimization** while still doing some **mixed-integer optimization** on the side. The variety is definitively the cherry on the cake for curious personalities like me.
 
-======
+---
 # My publications 
   <ul>{% for post in site.publications reversed%}
     {% include archive-single-cv.html %}
   {% endfor %}
   </ul>
-======
 
+---
 # My Talks 
 
   <ul>{% for post in site.talks reversed%}
@@ -32,3 +32,9 @@ Studying Frame-Field based methods is very interseting as it gathers very broad 
   {% endfor %}
   </ul>
   
+---
+# My Projects 
+
+<ul>{% for post in site.projects %}
+  {% include archive-single.html %}
+{% endfor %} <ul>

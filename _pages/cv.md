@@ -11,30 +11,57 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* **Engineer Degree**. in Software and Mathematical Engineering, INSA de Rouen-Normandie, 2019
+* **Master Degree**. in Theorical and applied Mathematics, University of Rouen, 2019
+* **Ph.D in Computer Science** : "_Polycube-dominant Meshing_", University of Lorraine, Inria, Loria, 2022 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring-Summer 2019: Research Assistant
+  * **Inria Nancy**(National Institute for Research in Computer Science and Automation), France
+  * Duties included: Search of new methods for hex-dominant meshing.
+  * Supervisors: [Dmitry Sokolov](https://members.loria.fr/DSokolov/) and Nicolas Ray
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2018: Research Assistant
+  * **CEA** (French Alternative Energies and Atomic Energy Commission), France
+  * Duties included: Use Polycube to generate hexaedral meshes
+  * Supervisor: Franck Ledoux
   
+* Summer 2017: Research Assistant
+  * **BK Birla Institute of Engineering and Technology, INDIA.**
+  * Duties included: Implementation of facial recognition algorithm
+  * Supervisor: Shridhar B. DANDIN and Shashi Kant Sharma
+
+Teaching
+======
+* **Software architecture and design** with Pr. Horatiu cirstea
+  * First year of Master Degree at University of Lorraine 
+  * year: 2020
+* **Inner working of a 3d rendering engine** with AP. Dmitry Sokolov
+  * First year of Master Degree at University of Lorraine 
+  * year: 2020
+  * [Course content](https://github.com/ssloy/tinyrenderer)
+* **Visual data representation** with AP. Dmitry Sokolov and AP. Gilles Simon 
+  * First year of Master Degree at University of Lorraine 
+  * year: 2019, 2020
+  * [Course content](https://github.com/ssloy/tinyraytracer)
+
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **C/C++**:
+  * On Windows and Linux
+  * Cmake, make and GIT
+  * OpenMP/OpenMPI
+* **Mathematical skills**
+  * Mixed-integer Programming
+  * Numerical Optimization/analysis
+  * PDE solving
+* **Latex**
+* I can manage: 
+  * Fortran 77/90
+  * Matlab/Octave
+  * Python
 
 Publications
 ======
@@ -48,12 +75,5 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+
